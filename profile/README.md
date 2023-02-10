@@ -18,7 +18,7 @@ This is location of the GitHub repositories used by [The PureGym Group](https://
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-## Interested in joining us? wrench:
+## Interested in joining us? :wrench:
 
 See central support [job vacancies]( https://eur63.dayforcehcm.com/CandidatePortal/en-GB/puregympeople/SITE/CANDIDATEPORTAL2/).
 
