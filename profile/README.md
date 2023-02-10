@@ -1,4 +1,4 @@
-## The PureGym Group Insight & Analytics GitHub Organisation :computer: :bar_chart:
+## The PureGym Group Insight & Analytics GitHub Organisation :bar_chart::computer: 
 
 The PureGym Group are the second largest European gym operator, with over 300 gyms in the UK, and a further 200 gyms internationally. Our mission is to bring high quality, affordable fitness to everyone, everywhere. 
 
