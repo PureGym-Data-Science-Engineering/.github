@@ -4,7 +4,7 @@ The PureGym Group are the second largest European gym operator, with over 300 gy
 
 This is location of the GitHub repositories used by [The PureGym Group](https://www.puregym.com/) Insight & Analytics Team. We span Data Science, Data Engineering, and Analytics. We are creating and developing a market-leading data, analytics and reporting platform at Group level.
 
-## Our Technology Stack :rocket:
+## Our Technology Stack :rocket::wrench:
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
@@ -18,7 +18,7 @@ This is location of the GitHub repositories used by [The PureGym Group](https://
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
-## Interested in Joining Us? :wrench:
+## Interested in Joining Us? :briefcase: 
 
 See central support [job vacancies]( https://eur63.dayforcehcm.com/CandidatePortal/en-GB/puregympeople/SITE/CANDIDATEPORTAL2/).
 
