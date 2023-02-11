@@ -4,7 +4,7 @@ The PureGym Group are the second largest European gym operator, with over 300 gy
 
 This is location of the GitHub repositories used by [The PureGym Group](https://www.puregym.com/) Insight & Analytics Team. We span Data Science, Data Engineering, and Analytics. We are creating and developing a market-leading data, analytics and reporting platform at Group level.
 
-## Our Technology Stack :rocket::wrench:
+## Our Technology Stack :wrench::rocket:
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
